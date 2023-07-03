@@ -1,2 +1,1 @@
-# rsschool-cv 
-https://diffreys.github.io/rsschool-cv/
+ https://diffreys.github.io/rsschool-cv/
